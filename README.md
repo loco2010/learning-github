@@ -1,2 +1,2 @@
-I am learning how to use git. \n
+I am learning how to use git.   
 Commiting a new line 
