@@ -187,11 +187,10 @@ class Minesweeper(Frame):
         self.cells[row][col].open(1) # pass a dummy event
 
 
-def test():
-    print("doesn't do anything")
+
 
 
 root = Tk()
 root.title('Minesweeper')
-mineGrid = Minesweeper(root, 15, 10, 15)
+mineGrid = Minesweeper(root, 15, 10, 2)
 root.mainloop()
